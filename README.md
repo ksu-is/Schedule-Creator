@@ -45,3 +45,4 @@ interface are impossible to generate a schedule for. Take for example
 the case in which you have 10 groups and only 8 activities available in
 the morning. Since no activity can run at the same time the schdule is
 impossible to generate.
+COMMIT FOR SCHOOL PROJECT
